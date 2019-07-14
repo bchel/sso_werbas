@@ -1,0 +1,49 @@
+{
+  "url": "https://hgs-idp-webclient.azurewebsites.net/account/sso/",
+  "parameters": [
+    {
+      "name": "username",
+      "mandatory": true
+    },
+    {
+      "name": "address",
+      "mandatory": false
+    },
+    {
+      "name": "city"
+    },
+    {
+      "name": "email"
+    },
+    {
+      "name": "employeeid"
+    },
+    {
+      "name": "employeename"
+    },
+    {
+      "name": "modeltype"
+    },
+    {
+      "name": "name"
+    },
+    {
+      "name": "orderNo"
+    },
+    {
+      "name": "phone"
+    },
+    {
+      "name": "regno"
+    },
+    {
+      "name": "servicedate"
+    },
+    {
+      "name": "vin"
+    },
+    {
+      "name": "zip"
+    }
+  ]
+}
